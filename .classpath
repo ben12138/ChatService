@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<accessrules>
+			<accessrule kind="accessible" pattern="**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Java Project/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="D:/AndroidProjectForEclipse/253_sms_sdk_lib_v_1.3_p.jar"/>
+	<classpathentry kind="lib" path="D:/AndroidProjectForEclipse/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
